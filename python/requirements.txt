@@ -1,5 +1,4 @@
 flake8
-pytest
 pylint
 pytest
 pytest-cov
